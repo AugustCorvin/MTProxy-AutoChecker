@@ -37,6 +37,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add working_mtproxy.txt dead_mtproxy.txt README.md
+          git add -f working_mtproxy.txt dead_mtproxy.txt README.md
           git commit -m "update proxies" || exit 0
           git push
