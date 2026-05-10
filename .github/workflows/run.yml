@@ -2,7 +2,7 @@ name: MTProxy Checker
 
 on:
   schedule:
-    - cron: "0,20,40 * * * *"
+    - cron: "*/20 * * * *"
   workflow_dispatch:
 
 jobs:
