@@ -196,11 +196,15 @@ def update_readme():
     with open(FILE_WORKING_MTPROXY, "r", encoding="utf-8") as f:
         proxies = f.read().strip().split("\n")
 
-    proxies_text = "\n".join(proxies[:100])  # ограничение
+    proxies_text = "\n".join(
+    f"MTProxy {i+1}](https://t.me/proxy?server={p.server}&port={p.port}&secret={p.secret})"
+    for i, p in enumerate(proxies[:100])
+    )
 
     content = f"""# MTProxy list
 
 Обновляется каждые 30 минут.
+
 
 ## Working proxies
 
