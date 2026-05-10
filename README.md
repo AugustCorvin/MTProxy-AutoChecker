@@ -1,0 +1,16 @@
+# MTProxy list
+
+Обновляется каждые 30 минут.
+
+## Working proxies
+
+```
+🇩🇪 https://t.me/proxy?server=45.86.159.75&port=443&secret=eeb94b721196395ace273b33f7e124bf636164732e78352e7275
+🇫🇮 https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275
+🇳🇱 https://t.me/proxy?server=85.155.98.186&port=443&secret=eecc26e9f7acd2557c380f751da5f2b3506c6f67696e2e766b2e636f6d
+🇺🇸 https://t.me/proxy?server=s.rkn.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+🇩🇪 https://t.me/proxy?server=tele2mt.duckdns.org&port=443&secret=eeddb6c661f6fdaa29528b3c8fe98f19cd74656c65326d742e6475636b646e732e6f7267
+🇩🇪 https://t.me/proxy?server=45.86.159.75&port=443&secret=eeb94b721196395ace273b33f7e124bf636164732e78352e7275
+🇱🇻 https://t.me/proxy?server=pr.hellinvite7up.ru&port=443&secret=ee3c1f25afd937cc59ac5e0464ffbae54a6465762e6368612d74612e73686f70
+🇫🇮 https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275
+```
