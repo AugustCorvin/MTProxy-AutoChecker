@@ -197,8 +197,9 @@ def update_readme():
         proxies = f.read().strip().split("\n")
 
     proxies_text = "\n".join(
-    f"[MTProxy {i+1}]({p})"
-    for i, p in enumerate(proxies[:100])
+        f"[{flag} MTProxy {i+1}]({url})"
+        for i, p in enumerate(proxies[:100])
+        for flag, url in [p.split(" ", 1)]
     )
 
     content = f"""# MTProxy list
