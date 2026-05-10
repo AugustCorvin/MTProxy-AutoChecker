@@ -26,7 +26,7 @@ FILE_DEAD_MTPROXY = 'dead_mtproxy.txt'
 
 # Телеграм канал и необходимое кол-во MTProxy
 TG_CHANNEL = 'mtp4tg'
-TG_AMOUNT = 10
+TG_AMOUNT = 100
 
 
 
@@ -200,11 +200,14 @@ def update_readme():
 
     content = f"""# MTProxy list
 
-    Обновляется каждые 30 минут.
+Обновляется каждые 30 минут.
 
-    ## Working proxies
-    {proxies_text}
-    """
+## Working proxies
+
+```
+{proxies_text}
+```
+"""
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(content)
