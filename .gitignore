@@ -1,5 +1,6 @@
 README.md
 .env
 session.session
+session.b64
 working_mtproxy.txt
 dead_mtproxy.txt
