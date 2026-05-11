@@ -5,7 +5,7 @@
 
 ## Working proxies
 
-[🇵🇱 MTProxy 1](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
+[🇫🇮 MTProxy 1](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
 
 [🇩🇪 MTProxy 2](https://t.me/proxy?server=mtproto.shifor.live&port=443&secret=eeccb69c036ea76a75dbfa506d489f8b7f6d7470726f78792e736869666f722e6c697665)
 
@@ -37,7 +37,7 @@
 
 [🇩🇪 MTProxy 16](https://t.me/proxy?server=proxy.mtrxvpn.com&port=443&secret=ee0740e2e79a9ad7a2ec62a5f14bbb63df74656c69612e7365)
 
-[🇦🇪 MTProxy 17](https://t.me/proxy?server=mtproto.spectrum.vu&port=443&secret=ee161aebb85990493447ac98461dd6ea70766b2e636f6d)
+[🇫🇮 MTProxy 17](https://t.me/proxy?server=mtproto.spectrum.vu&port=443&secret=ee161aebb85990493447ac98461dd6ea70766b2e636f6d)
 
 [🇧🇬 MTProxy 18](https://t.me/proxy?server=s06.dimasssss.space&port=443&secret=eebed92191281b6d7a676b052f2797cad96d61782e7275)
 
@@ -73,39 +73,39 @@
 
 [🇩🇪 MTProxy 34](https://t.me/proxy?server=mtproto.shifor.live&port=443&secret=eeccb69c036ea76a75dbfa506d489f8b7f6d7470726f78792e736869666f722e6c697665)
 
-[🇫🇮 MTProxy 35](https://t.me/proxy?server=mtproto.spectrum.vu&port=443&secret=ee161aebb85990493447ac98461dd6ea70766b2e636f6d)
+[🇦🇪 MTProxy 35](https://t.me/proxy?server=mtproto.spectrum.vu&port=443&secret=ee161aebb85990493447ac98461dd6ea70766b2e636f6d)
 
-[🇵🇱 MTProxy 36](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
+[🇫🇮 MTProxy 36](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
 
 [🇷🇺 MTProxy 37](https://t.me/proxy?server=mtproto2.wieldvpn.ru&port=444&secret=eed9bf7f87ace5399874a19462eadc28d8636c6f75642e7275)
 
-[🇫🇮 MTProxy 38](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
+[🇵🇱 MTProxy 38](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
 
 [🇩🇪 MTProxy 39](https://t.me/proxy?server=mtproto.shifor.live&port=443&secret=eeccb69c036ea76a75dbfa506d489f8b7f6d7470726f78792e736869666f722e6c697665)
 
 [🇫🇮 MTProxy 40](https://t.me/proxy?server=venus.flarevpn.top&port=443&secret=eef71bc22c81b68c59a26beabda30e4315706c617932676f2e636c6f7564)
 
-[🇫🇮 MTProxy 41](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
+[🇺🇸 MTProxy 41](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
 
 [🇩🇪 MTProxy 42](https://t.me/proxy?server=mtproto.shifor.live&port=443&secret=eeccb69c036ea76a75dbfa506d489f8b7f6d7470726f78792e736869666f722e6c697665)
 
 [🇷🇺 MTProxy 43](https://t.me/proxy?server=mtproto1.wieldvpn.ru&port=443&secret=ee42c3fcba858298575daf6f97fa2e9bb8636c6f75642e7275)
 
-[🇸🇪 MTProxy 44](https://t.me/proxy?server=love.flarevpn.top&port=443&secret=ee76c09650cc6c0fa84f56b3b41f699c1a706c617932676f2e636c6f7564)
+[🇱🇻 MTProxy 44](https://t.me/proxy?server=pr.hellinvite7up.ru&port=443&secret=ee3c1f25afd937cc59ac5e0464ffbae54a6465762e6368612d74612e73686f70)
 
-[🇱🇻 MTProxy 45](https://t.me/proxy?server=pr.hellinvite7up.ru&port=443&secret=ee3c1f25afd937cc59ac5e0464ffbae54a6465762e6368612d74612e73686f70)
+[🇳🇱 MTProxy 45](https://t.me/proxy?server=2.27.54.217&port=443&secret=ee456dbbf5f18d71bee84bcedabf5d04bd636c6f7564666c6172652e636f6d)
 
-[🇳🇱 MTProxy 46](https://t.me/proxy?server=2.27.54.217&port=443&secret=ee456dbbf5f18d71bee84bcedabf5d04bd636c6f7564666c6172652e636f6d)
+[🇷🇺 MTProxy 46](https://t.me/proxy?server=77.105.169.123&port=2055&secret=ee4ee5eb6ef0676f9138024d7e80488b6e79616e6465782e7275)
 
-[🇷🇺 MTProxy 47](https://t.me/proxy?server=77.105.169.123&port=2055&secret=ee4ee5eb6ef0676f9138024d7e80488b6e79616e6465782e7275)
+[🇵🇱 MTProxy 47](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
 
-[🇺🇸 MTProxy 48](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
+[🇫🇮 MTProxy 48](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
 
-[🇫🇮 MTProxy 49](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
+[🇸🇪 MTProxy 49](https://t.me/proxy?server=moon.flarevpn.top&port=443&secret=eeb747920e217dbcbb7aa533b7278bf02f706c617932676f2e636c6f7564)
 
-[🇵🇱 MTProxy 50](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
+[🇺🇸 MTProxy 50](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
 
-[🇳🇱 MTProxy 51](https://t.me/proxy?server=proxy.fosteks.icu&port=443&secret=eeda3201e6c5497161480349366d1236916170706c652e636f6d)
+[🇵🇱 MTProxy 51](https://t.me/proxy?server=proxy.fosteks.icu&port=443&secret=eeda3201e6c5497161480349366d1236916170706c652e636f6d)
 
 [🇷🇺 MTProxy 52](https://t.me/proxy?server=tg.myaeroplan.ru&port=443&secret=ee8a33c4889bc447aceb6be857937532456d742e6d796165726f706c616e2e7275)
 
@@ -113,7 +113,7 @@
 
 [🇫🇮 MTProxy 54](https://t.me/proxy?server=proxy.nuv.cx&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d)
 
-[🇵🇱 MTProxy 55](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
+[🇺🇸 MTProxy 55](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
 
 [🇵🇱 MTProxy 56](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
 
@@ -123,28 +123,24 @@
 
 [🏳 MTProxy 59](https://t.me/proxy?server=tg-proxy.myoasis.fyi&port=8443&secret=ee7928236c568779906660113824147700676f6f676c652e636f6d)
 
-[🇵🇱 MTProxy 60](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
+[🇺🇸 MTProxy 60](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
 
 [🇷🇺 MTProxy 61](https://t.me/proxy?server=tg.myaeroplan.ru&port=443&secret=ee8a33c4889bc447aceb6be857937532456d742e6d796165726f706c616e2e7275)
 
 [🇱🇻 MTProxy 62](https://t.me/proxy?server=pr.hellinvite7up.ru&port=443&secret=ee3c1f25afd937cc59ac5e0464ffbae54a6465762e6368612d74612e73686f70)
 
-[🇵🇱 MTProxy 63](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
+[🇺🇸 MTProxy 63](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
 
 [🇱🇻 MTProxy 64](https://t.me/proxy?server=pr.hellinvite7up.ru&port=443&secret=ee3c1f25afd937cc59ac5e0464ffbae54a6465762e6368612d74612e73686f70)
 
-[🇺🇸 MTProxy 65](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
+[🇫🇮 MTProxy 65](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
 
-[🇸🇪 MTProxy 66](https://t.me/proxy?server=love.flarevpn.top&port=443&secret=ee76c09650cc6c0fa84f56b3b41f699c1a706c617932676f2e636c6f7564)
+[🇷🇺 MTProxy 66](https://t.me/proxy?server=tg.x7ping.top&port=443&secret=ee91821ff9642ed3ffbbc5bb929eb2a5a5706574726f766963682e7275)
 
-[🇷🇺 MTProxy 67](https://t.me/proxy?server=tg.x7ping.top&port=443&secret=ee91821ff9642ed3ffbbc5bb929eb2a5a5706574726f766963682e7275)
+[🇵🇱 MTProxy 67](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
 
-[🇵🇱 MTProxy 68](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
+[🇺🇸 MTProxy 68](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
 
-[🇫🇮 MTProxy 69](https://t.me/proxy?server=144.31.156.210&port=443&secret=ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564)
+[🇩🇪 MTProxy 69](https://t.me/proxy?server=russia.tgproxy11.online&port=443&secret=eed28a6a29973dc4b3ca4d87955796b30f7275737369612e746770726f787931312e6f6e6c696e65)
 
-[🇵🇱 MTProxy 70](https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275)
-
-[🇩🇪 MTProxy 71](https://t.me/proxy?server=russia.tgproxy11.online&port=443&secret=eed28a6a29973dc4b3ca4d87955796b30f7275737369612e746770726f787931312e6f6e6c696e65)
-
-[🇦🇪 MTProxy 72](https://t.me/proxy?server=nigon.goida.info&port=443&secret=ee0ab814ab4b08fb7275718acf131b84a973616d73756e672e636f6d)
+[🇦🇪 MTProxy 70](https://t.me/proxy?server=nigon.goida.info&port=443&secret=ee0ab814ab4b08fb7275718acf131b84a973616d73756e672e636f6d)
