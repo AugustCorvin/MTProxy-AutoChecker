@@ -1,4 +1,6 @@
 🇳🇱 https://t.me/proxy?server=31.58.220.74&port=443&secret=dd32b29196e09ed5119f7b7fac3cd4cdab
+🇳🇱 https://t.me/proxy?server=31.58.220.74&port=443&secret=dd32b29196e09ed5119f7b7fac3cd4cdab
+🇷🇺 https://t.me/proxy?server=s4.wyckoff.one&port=443&secret=eee091a124d81e530d3c1197f6e65c284b617669746f2e7275
 🇫🇮 https://t.me/proxy?server=mercury.flarevpn.top&port=443&secret=ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564
 🇩🇪 https://t.me/proxy?server=proxy.miragerust.com&port=443&secret=eec350441db3232713ad580d4975fa673879612e7275
 🇳🇱 https://t.me/proxy?server=85.155.98.186&port=443&secret=eecc26e9f7acd2557c380f751da5f2b3506c6f67696e2e766b2e636f6d
@@ -32,4 +34,3 @@
 🇩🇪 https://t.me/proxy?server=ge.ultraproxy.wiki&port=443&secret=ee5a829057834a20a0747ed2e6edd3f0b167652e756c74726170726f78792e77696b69
 🇫🇮 https://t.me/proxy?server=46.62.132.241&port=443&secret=eeae762d0e4d199c7a7085525d37e230c97777772e636c6f7564666c6172652e636f6d
 🇸🇪 https://t.me/proxy?server=moon.flarevpn.top&port=443&secret=eeb747920e217dbcbb7aa533b7278bf02f706c617932676f2e636c6f7564
-🇫🇮 https://t.me/proxy?server=rodion.voltlab.su&port=333&secret=ee4fb4f50671cf171c891dfc1475609a0c726f64696f6e2e766f6c746c61622e7375
