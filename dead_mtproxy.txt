@@ -1,9 +1,9 @@
 🇳🇱 https://t.me/proxy?server=31.58.220.74&port=443&secret=dd32b29196e09ed5119f7b7fac3cd4cdab
 🇳🇱 https://t.me/proxy?server=31.58.220.74&port=443&secret=dd32b29196e09ed5119f7b7fac3cd4cdab
+🇳🇱 https://t.me/proxy?server=31.58.220.74&port=443&secret=dd32b29196e09ed5119f7b7fac3cd4cdab
 🇩🇪 https://t.me/proxy?server=nyaproxy1.nya-aw.sbs&port=9443&secret=ee926da710c737c5e03a5afea1f5b2318d7777772e636c6f7564666c6172652e636f6d
 🇳🇱 https://t.me/proxy?server=31.58.220.74&port=443&secret=dd32b29196e09ed5119f7b7fac3cd4cdab
 🇩🇪 https://t.me/proxy?server=45.86.159.83&port=443&secret=eeb94b721196395ace273b33f7e124bf636164732e78352e7275
-🇩🇰 https://t.me/proxy?server=free-niderl.kimt.space&port=443&secret=ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275
 🇩🇪 https://t.me/proxy?server=45.86.159.83&port=443&secret=eeb94b721196395ace273b33f7e124bf636164732e78352e7275
 🇷🇺 https://t.me/proxy?server=80.249.148.51&port=2055&secret=eec46e24a0e7e36e4d7ed6711650b3b13279616e6465782e7275
 🇬🇧 https://t.me/proxy?server=195.184.247.13&port=443&secret=eef4c8d7ed51d87da9550d1132b84169706c6f67696e2e766b2e636f6d
@@ -28,4 +28,4 @@
 🇷🇺 https://t.me/proxy?server=77.105.169.123&port=2055&secret=ee4ee5eb6ef0676f9138024d7e80488b6e79616e6465782e7275
 🇮🇷 https://t.me/proxy?server=94.183.177.111&port=443&secret=dd0a3036756eb7227a3a938f29564f181e
 🇸🇪 https://t.me/proxy?server=moon.flarevpn.top&port=443&secret=eeb747920e217dbcbb7aa533b7278bf02f706c617932676f2e636c6f7564
-🇫🇮 https://t.me/proxy?server=gold.flarevpn.top&port=443&secret=ee3dd1018840a3488d2571092614a5ca44706c617932676f2e636c6f7564
+🇬🇧 https://t.me/proxy?server=proxy.fosteks.icu&port=443&secret=eeda3201e6c5497161480349366d1236916170706c652e636f6d
