@@ -1,5 +1,6 @@
 🇳🇱 https://t.me/proxy?server=31.58.220.74&port=443&secret=dd32b29196e09ed5119f7b7fac3cd4cdab
 🇳🇱 https://t.me/proxy?server=31.58.220.74&port=443&secret=dd32b29196e09ed5119f7b7fac3cd4cdab
+🇺🇸 https://t.me/proxy?server=2.26.74.135&port=443&secret=eee1de11495a1f99a91c4ee0c863252b586d742e736869666f722e6c697665
 🇳🇱 https://t.me/proxy?server=31.58.220.74&port=443&secret=dd32b29196e09ed5119f7b7fac3cd4cdab
 🇳🇱 https://t.me/proxy?server=31.58.220.74&port=443&secret=dd32b29196e09ed5119f7b7fac3cd4cdab
 🇩🇪 https://t.me/proxy?server=45.86.159.83&port=443&secret=eeb94b721196395ace273b33f7e124bf636164732e78352e7275
@@ -10,7 +11,7 @@
 🇫🇮 https://t.me/proxy?server=mercury.flarevpn.top&port=443&secret=ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564
 🇩🇪 https://t.me/proxy?server=proxy.miragerust.com&port=443&secret=eec350441db3232713ad580d4975fa673879612e7275
 🇳🇱 https://t.me/proxy?server=85.155.98.186&port=443&secret=eecc26e9f7acd2557c380f751da5f2b3506c6f67696e2e766b2e636f6d
-🇺🇸 https://t.me/proxy?server=venus.flarevpn.top&port=443&secret=eef71bc22c81b68c59a26beabda30e4315706c617932676f2e636c6f7564
+🇫🇮 https://t.me/proxy?server=venus.flarevpn.top&port=443&secret=eef71bc22c81b68c59a26beabda30e4315706c617932676f2e636c6f7564
 🇳🇱 https://t.me/proxy?server=85.155.98.186&port=443&secret=eecc26e9f7acd2557c380f751da5f2b3506c6f67696e2e766b2e636f6d
 🇬🇧 https://t.me/proxy?server=kria.snappytuppy.icu&port=443&secret=ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375
 🇩🇪 https://t.me/proxy?server=45.86.159.75&port=443&secret=eeb94b721196395ace273b33f7e124bf636164732e78352e7275
@@ -27,4 +28,3 @@
 🇸🇪 https://t.me/proxy?server=love.flarevpn.top&port=443&secret=ee76c09650cc6c0fa84f56b3b41f699c1a706c617932676f2e636c6f7564
 🇷🇺 https://t.me/proxy?server=77.105.169.123&port=2055&secret=ee4ee5eb6ef0676f9138024d7e80488b6e79616e6465782e7275
 🇮🇷 https://t.me/proxy?server=94.183.177.111&port=443&secret=dd0a3036756eb7227a3a938f29564f181e
-🇸🇪 https://t.me/proxy?server=moon.flarevpn.top&port=443&secret=eeb747920e217dbcbb7aa533b7278bf02f706c617932676f2e636c6f7564
