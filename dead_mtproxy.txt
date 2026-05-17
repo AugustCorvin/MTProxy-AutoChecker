@@ -2,6 +2,7 @@
 🇩🇪 https://t.me/proxy?server=kria2.snappytuppy.icu&port=443&secret=ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375
 🇳🇱 https://t.me/proxy?server=31.58.220.74&port=443&secret=dd32b29196e09ed5119f7b7fac3cd4cdab
 🇳🇱 https://t.me/proxy?server=31.58.220.74&port=443&secret=dd32b29196e09ed5119f7b7fac3cd4cdab
+🇩🇪 https://t.me/proxy?server=150.241.71.131&port=443&secret=eef71bc22c81b68c59a26beabda30e4315706c617932676f2e636c6f7564
 🇩🇪 https://t.me/proxy?server=kria2.snappytuppy.icu&port=443&secret=ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375
 🇳🇱 https://t.me/proxy?server=31.58.220.74&port=443&secret=dd32b29196e09ed5119f7b7fac3cd4cdab
 🇳🇱 https://t.me/proxy?server=ya.zaebalsya.uk&port=8443&secret=ee1104a80139ca104cdb1184484edf78c37275737369616e2d616e696d616c732e7275
@@ -25,7 +26,6 @@
 🇩🇪 https://t.me/proxy?server=t.avocadovpn.net&port=443&secret=eebced5e8d724dee1ba056e959c5b3b442636c6f7564666c6172652e636f6d
 🇺🇸 https://t.me/proxy?server=earth.flarevpn.top&port=443&secret=eea04d93701c5912f1e58cf67161dd45f6706c617932676f2e636c6f7564
 🇳🇱 https://t.me/proxy?server=31.58.220.74&port=443&secret=dd32b29196e09ed5119f7b7fac3cd4cdab
-🇷🇺 https://t.me/proxy?server=nyaproxy1.nya-aw.sbs&port=9443&secret=ee7fafda4a7dea5a80c8196c944aaeac287777772e636c6f7564666c6172652e636f6d
 🇳🇱 https://t.me/proxy?server=31.58.220.74&port=443&secret=dd32b29196e09ed5119f7b7fac3cd4cdab
 🇩🇪 https://t.me/proxy?server=45.86.159.83&port=443&secret=eeb94b721196395ace273b33f7e124bf636164732e78352e7275
 🇺🇸 https://t.me/proxy?server=earth.flarevpn.top&port=443&secret=eea04d93701c5912f1e58cf67161dd45f6706c617932676f2e636c6f7564
@@ -38,8 +38,8 @@
 🇫🇮 https://t.me/proxy?server=mercury.flarevpn.top&port=443&secret=ee5018602bc9cb9124a5c1cb0154634ad2706c617932676f2e636c6f7564
 🇩🇪 https://t.me/proxy?server=proxy.miragerust.com&port=443&secret=eec350441db3232713ad580d4975fa673879612e7275
 🇳🇱 https://t.me/proxy?server=85.155.98.186&port=443&secret=eecc26e9f7acd2557c380f751da5f2b3506c6f67696e2e766b2e636f6d
-🇺🇸 https://t.me/proxy?server=venus.flarevpn.top&port=443&secret=eef71bc22c81b68c59a26beabda30e4315706c617932676f2e636c6f7564
+🇫🇮 https://t.me/proxy?server=venus.flarevpn.top&port=443&secret=eef71bc22c81b68c59a26beabda30e4315706c617932676f2e636c6f7564
 🇳🇱 https://t.me/proxy?server=mt1.shifor.live&port=443&secret=ee591d42555613d98af502d991892478346d74312e736869666f722e6c697665
 🇳🇱 https://t.me/proxy?server=85.155.98.186&port=443&secret=eecc26e9f7acd2557c380f751da5f2b3506c6f67696e2e766b2e636f6d
-🏳 https://t.me/proxy?server=proxy.mtrxvpn.com&port=443&secret=ee0740e2e79a9ad7a2ec62a5f14bbb63df74656c69612e7365
+🇸🇪 https://t.me/proxy?server=proxy.mtrxvpn.com&port=443&secret=ee0740e2e79a9ad7a2ec62a5f14bbb63df74656c69612e7365
 🇬🇧 https://t.me/proxy?server=kria.snappytuppy.icu&port=443&secret=ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375
