@@ -1,6 +1,5 @@
 🇸🇪 https://t.me/proxy?server=proxy.alpina.ws&port=8443&secret=ee76565183e0c5782d8ea5fbc0c6e0e9f770726f78792e616c70696e612e7773
 🇸🇪 https://t.me/proxy?server=proxy.alpina.ws&port=8443&secret=ee76565183e0c5782d8ea5fbc0c6e0e9f770726f78792e616c70696e612e7773
-🇳🇱 https://t.me/proxy?server=154.83.208.252&port=443&secret=dd3278872d2e4e46f69900392c6587ae3e
 🇳🇱 https://t.me/proxy?server=154.83.208.251&port=443&secret=ddad0fc46212cd07e05b313ca24e426f85
 🇸🇪 https://t.me/proxy?server=proxy.alpina.ws&port=8443&secret=ee76565183e0c5782d8ea5fbc0c6e0e9f770726f78792e616c70696e612e7773
 🇺🇸 https://t.me/proxy?server=fast.myaeroplan.ru&port=443&secret=eec9f95b3e5755ee5e38fb35f73195f75a666173742e6d796165726f706c616e2e7275
@@ -26,11 +25,9 @@
 🇩🇪 https://t.me/proxy?server=kria2.snappytuppy.icu&port=443&secret=ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375
 🇳🇱 https://t.me/proxy?server=31.58.220.74&port=443&secret=dd32b29196e09ed5119f7b7fac3cd4cdab
 🇳🇱 https://t.me/proxy?server=ya.zaebalsya.uk&port=8443&secret=ee1104a80139ca104cdb1184484edf78c37275737369616e2d616e696d616c732e7275
-🇷🇺 https://t.me/proxy?server=194.147.78.85&port=443&secret=ee6ffd35735a2567e659a7cdf91e514c2831632e7275
 🇬🇧 https://t.me/proxy?server=195.184.247.41&port=8443&secret=eecef4c6a212fc5eff23f225282b7345287777772e676f6f676c652e636f6d
 🇳🇱 https://t.me/proxy?server=31.58.220.74&port=443&secret=dd32b29196e09ed5119f7b7fac3cd4cdab
 🇳🇱 https://t.me/proxy?server=154.86.119.86&port=443&secret=dd4dda2bc652e639e1293529a3b557c357
-🇩🇰 https://t.me/proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275
 🇳🇱 https://t.me/proxy?server=31.58.220.74&port=443&secret=dd32b29196e09ed5119f7b7fac3cd4cdab
 🇺🇸 https://t.me/proxy?server=mars.flarevpn.top&port=443&secret=eeee2df95325c79fa3a3b5a559bd59adfd706c617932676f2e636c6f7564
 🇬🇧 https://t.me/proxy?server=kria1.snappytuppy.icu&port=443&secret=ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375
