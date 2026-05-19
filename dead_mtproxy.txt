@@ -1,5 +1,6 @@
 🇸🇪 https://t.me/proxy?server=proxy.alpina.ws&port=8443&secret=ee76565183e0c5782d8ea5fbc0c6e0e9f770726f78792e616c70696e612e7773
 🇸🇪 https://t.me/proxy?server=proxy.alpina.ws&port=8443&secret=ee76565183e0c5782d8ea5fbc0c6e0e9f770726f78792e616c70696e612e7773
+🇳🇱 https://t.me/proxy?server=154.83.208.252&port=443&secret=dd3278872d2e4e46f69900392c6587ae3e
 🇳🇱 https://t.me/proxy?server=154.83.208.251&port=443&secret=ddad0fc46212cd07e05b313ca24e426f85
 🇸🇪 https://t.me/proxy?server=proxy.alpina.ws&port=8443&secret=ee76565183e0c5782d8ea5fbc0c6e0e9f770726f78792e616c70696e612e7773
 🇺🇸 https://t.me/proxy?server=fast.myaeroplan.ru&port=443&secret=eec9f95b3e5755ee5e38fb35f73195f75a666173742e6d796165726f706c616e2e7275
